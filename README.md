@@ -1,4 +1,11 @@
 # Variance Project
-Budget vs Actual, Pivot Tables, Charts, Insight and Recommendations
 
-Built YTD Budget vs Actual variance tracker in Excel using PivotTables, conditional formatting, dynamic charts, and driver analysis. Identified key variances and provided actionable recommendations for cost control and revenue optimization.
+ASU BA Financial Planning (Dec 2023)
+
+## Budget Vs Actual Variance Analysis Project (Feb 2026)
+
+Built Excel based YTD variance tracker in order to practice FP&A skills:
+-PivotTables for summarization
+-Conditional Formatting for visual alerts
+-Dynamic charts broken down into income and expenses
+-Driver analysis and actionable recommendations
